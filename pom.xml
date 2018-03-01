@@ -61,6 +61,11 @@
                 <artifactId>hibernate-core</artifactId>
                 <version>4.3.11.Final</version>
             </dependency>                             
+            <dependency>
+                <groupId>com.crm</groupId>
+                <artifactId>core-module</artifactId>
+                <version>1.0</version>
+            </dependency>                             
         </dependencies>
     </dependencyManagement>
     
